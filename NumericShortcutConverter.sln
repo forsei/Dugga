@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericShort.Test", "NumericShort.Test\NumericShort.Test.csproj", "{7516BC44-29C7-4340-BDE6-64F10975CFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericShortcut", "NumericShortcut\NumericShortcut.csproj", "{527772D7-FAC0-4EE8-BE77-EF5A6ABCE77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7516BC44-29C7-4340-BDE6-64F10975CFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7516BC44-29C7-4340-BDE6-64F10975CFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7516BC44-29C7-4340-BDE6-64F10975CFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7516BC44-29C7-4340-BDE6-64F10975CFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527772D7-FAC0-4EE8-BE77-EF5A6ABCE77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527772D7-FAC0-4EE8-BE77-EF5A6ABCE77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527772D7-FAC0-4EE8-BE77-EF5A6ABCE77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527772D7-FAC0-4EE8-BE77-EF5A6ABCE77E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
