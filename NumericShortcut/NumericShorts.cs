@@ -10,7 +10,19 @@ namespace NumericShortcut
     {
         public string ChangeNumericShortcut(string shortcut)
         {
-            throw new NotImplementedException();
+            if (shortcut == null)
+            {
+                throw new ArgumentNullException("Message is null");
+            }
+
+            if (shortcut.Trim().Equals(""))
+            {
+                throw new ArgumentException("Message is empty.");
+            }
+
+
+
+            return "1000";
         }
     }
 }

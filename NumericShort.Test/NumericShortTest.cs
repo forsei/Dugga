@@ -41,7 +41,7 @@ namespace NumericShort.Test
 
 
 
-        [TestMethod]
+        [TestMethod, ExpectedException(typeof(ArgumentException))]
         public void NumericShortcutsConvertorEmptyStringArgumentException()
         {
             //Arrange

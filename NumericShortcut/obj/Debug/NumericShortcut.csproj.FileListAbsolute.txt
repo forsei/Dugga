@@ -1,0 +1,5 @@
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShortcut\bin\Debug\NumericShortcut.dll
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShortcut\bin\Debug\NumericShortcut.pdb
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShortcut\obj\Debug\NumericShortcut.csprojResolveAssemblyReference.cache
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShortcut\obj\Debug\NumericShortcut.dll
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShortcut\obj\Debug\NumericShortcut.pdb

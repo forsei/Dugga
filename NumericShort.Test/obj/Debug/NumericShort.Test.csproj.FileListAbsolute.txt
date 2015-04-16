@@ -1,0 +1,7 @@
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShort.Test\bin\Debug\NumericShort.Test.dll
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShort.Test\bin\Debug\NumericShort.Test.pdb
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShort.Test\bin\Debug\NumericShortcut.dll
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShort.Test\bin\Debug\NumericShortcut.pdb
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShort.Test\obj\Debug\NumericShort.Test.csprojResolveAssemblyReference.cache
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShort.Test\obj\Debug\NumericShort.Test.dll
+C:\Users\sing\Documents\Visual Studio 2013\Projects\NumericShortcutConverter\NumericShort.Test\obj\Debug\NumericShort.Test.pdb
